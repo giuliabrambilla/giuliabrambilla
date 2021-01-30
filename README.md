@@ -9,7 +9,8 @@ Currently enrolled in a Data Science, Data Analytics and Machine Learning bootca
 
 - Programming with Python
 - Descriptive statistics
-- Exploratory data analysis and data mining for business intelligence
+- Exploratory data analysis
+- Data mining for business intelligence
 - Data visualisation with Tableau, Matplotlib, Seaborn...
 - Big Data foundations
 - SQL and relational databases
@@ -17,7 +18,7 @@ Currently enrolled in a Data Science, Data Analytics and Machine Learning bootca
 - Natural language processing
 - Web scraping
 
-I am passionate about sustainability, food-tech and alt-proteins. I believe in innovation and interdisciplinary thinking and advocate for inspiring tech innovations in a better future that eventually lead to social and environmental change 🌱
+I am passionate about sustainability, food-tech and alt-proteins. My mission is to contribute to create a positive change in the world and help to solve society's toughest challenges with the help of data. I believe in innovation and interdisciplinary thinking and advocate for inspiring tech innovations in a better future that eventually lead to social and environmental change 🌱
 
 Skillset and tools used:   Python | SQL | Tableau | Excel | Machine Learning Modeling | Visualisation | Analysis        
 
