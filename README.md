@@ -1,7 +1,7 @@
-### Hello world, I'm Giulia!
+### Hello world!
 
 
-I define myself a curious, open-minded earthling who loves to solve problems using programming and data.
+I'm Giulia. I define myself a curious, open-minded earthling who loves to solve problems using data and programming.
 
 Currently enrolled in a Data Science, Data Analytics and Machine Learning bootcamp at [Allwomen Academy](https://www.allwomen.tech/) in Barcelona ⚡️ An intensive, hands-on learning experience in which I'm learning about:
 
@@ -16,4 +16,4 @@ I am passionate about sustainability, food-tech and alt-proteins. I believe in i
 
 Skillset and tools used:   Python | SQL | Tableau | Excel | Machine Learning Modeling | Visualisation | Analysis        
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/), I'm always happy to know other data enthusiasts.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/), I'm always happy to know other data enthusiasts.
