@@ -5,10 +5,6 @@ I'm Giulia. I define myself a curious, open-minded earthling who loves to solve 
 
 Currently enrolled in a Data Science, Data Analytics and Machine Learning bootcamp at [Allwomen Academy](https://www.allwomen.tech/) in Barcelona ⚡️ An intensive, hands-on learning experience in which I'm learning about:
 
-  <iframe src="https://gifer.com/embed/7NUJ" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-
-  <img align="right" alt="GIF" width="480" height="480" src="https://i.gifer.com/7NUJ.gif" />
-
 - Statistics and programming with Python
 - Exploratory data analysis and data mining for business intelligence
 - Data visualisation with Tableau, Matplotlib, Seaborn...
