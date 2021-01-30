@@ -1,18 +1,20 @@
-### Hello world!
+### Hello world 🚀
 
 
 I'm Giulia. I define myself a curious, open-minded earthling who loves to solve problems using data and programming.
 
 Currently enrolled in a Data Science, Data Analytics and Machine Learning bootcamp at [Allwomen Academy](https://www.allwomen.tech/) in Barcelona ⚡️ An intensive, hands-on learning experience in which I'm learning about:
 
-- Statistics and programming with Python
+<img align="right" alt="GIF" width="400" height="240" src="tenor.gif" />
+
+- Programming with Python
+- Descriptive statistics
 - Exploratory data analysis and data mining for business intelligence
 - Data visualisation with Tableau, Matplotlib, Seaborn...
+- Big Data foundations
 - SQL and relational databases
 - Supervised and unsupervised machine learning algorithms
 - Natural language processing
-
-<img align="right" alt="GIF" width="500" height="300" src="tenor.gif" />
 
 I am passionate about sustainability, food-tech and alt-proteins. I believe in innovation and interdisciplinary thinking and advocate for inspiring tech innovations in a better future that eventually lead to social and environmental change 🌱
 
