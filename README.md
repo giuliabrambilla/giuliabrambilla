@@ -5,7 +5,7 @@ I'm Giulia. I define myself a curious, open-minded earthling who loves to solve 
 
 Currently enrolled in a Data Science, Data Analytics and Machine Learning bootcamp at [Allwomen Academy](https://www.allwomen.tech/) in Barcelona ⚡️ An intensive, hands-on learning experience in which I'm learning about:
 
-<img align="right" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="400" height="350" />
+<img align="right" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="300" height="262" />
 
 - Programming with Python
 - Descriptive statistics
