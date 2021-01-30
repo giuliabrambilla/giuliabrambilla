@@ -17,6 +17,7 @@ Currently enrolled in a Data Science, Data Analytics and Machine Learning bootca
 - Supervised and unsupervised machine learning algorithms
 - Natural language processing
 - Web scraping
+and much more...
 
 I am passionate about sustainability, food-tech and alt-proteins. My mission is to contribute to create a positive change in the world and help to solve society's toughest challenges with the help of data. I believe in innovation and interdisciplinary thinking and advocate for inspiring tech innovations in a better future that eventually lead to social and environmental change 🌱
 
