@@ -15,6 +15,7 @@ Currently enrolled in a Data Science, Data Analytics and Machine Learning bootca
 - SQL and relational databases
 - Supervised and unsupervised machine learning algorithms
 - Natural language processing
+- Web scraping
 
 I am passionate about sustainability, food-tech and alt-proteins. I believe in innovation and interdisciplinary thinking and advocate for inspiring tech innovations in a better future that eventually lead to social and environmental change 🌱
 
