@@ -20,7 +20,6 @@ Currently enrolled in a Data Science, Data Analytics and Machine Learning bootca
 
 and much more...
 
-I am passionate about sustainability, food-tech and alt-proteins. I believe in innovation and interdisciplinary thinking and advocate for inspiring tech innovations in a better future that eventually lead to social and environmental change 🌱 Ultimately, I aim to collaborate with thriving companies that align with my values to reach positive and beneficial results that can support a more sustainable, forward-thinking and innovative food system.
 
 Skillset and tools used:   Python | SQL | Tableau | Excel | Machine Learning Modeling | Data Visualisation | Analysis        
 
