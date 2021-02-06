@@ -1,7 +1,7 @@
 ### Hello! I'm Giulia 🚀
 
 
-I define myself a curious, open-mindedm analytical earthling who loves to solve problems using data.
+I define myself a curious, open-mindedm analytical earthling who loves to solve problems and answer questions using data.
 
 Currently enrolled in a Data Science, Data Analytics and Machine Learning bootcamp at [Allwomen Academy](https://www.allwomen.tech/) in Barcelona ⚡️ An intensive, hands-on learning experience in which I'm learning about:
 
@@ -20,7 +20,7 @@ Currently enrolled in a Data Science, Data Analytics and Machine Learning bootca
 
 and much more...
 
-I am passionate about sustainability, food-tech and alt-proteins. My mission is to contribute to create a positive change in the world and help to solve society's toughest challenges with the help of data. I believe in innovation and interdisciplinary thinking and advocate for inspiring tech innovations in a better future that eventually lead to social and environmental change 🌱
+I am passionate about sustainability, food-tech and alt-proteins. I believe in innovation and interdisciplinary thinking and advocate for inspiring tech innovations in a better future that eventually lead to social and environmental change 🌱 Ultimately, I aim to collaborate with thriving companies that align with my values to reach positive and beneficial results that can support a more sustainable, forward-thinking and innovative food system.
 
 Skillset and tools used:   Python | SQL | Tableau | Excel | Machine Learning Modeling | Data Visualisation | Analysis        
 
