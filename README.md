@@ -1,7 +1,7 @@
 ### Hello! I'm Giulia 🚀
 
 
-I define myself a curious, open-mindedm analytical earthling who loves to solve problems and answer questions using data.
+I define myself a curious, open-minded analytical earthling who loves to solve problems and answer questions using data.
 
 Currently enrolled in a Data Science, Data Analytics and Machine Learning bootcamp at [Allwomen Academy](https://www.allwomen.tech/) in Barcelona ⚡️ An intensive, hands-on learning experience in which I'm learning about:
 
