@@ -25,4 +25,4 @@ Skillset and tools used:   Python | SQL | Tableau | Excel | Machine Learning Mod
 
 Check my professional experience and feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) 🤓
 
-I'm always up for a virtual coffee chat! Reach me out at [my email](mailto:giuliabrambillapress@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+I'm always up for a virtual coffee chat with fellow data scientists and ML enthusiast - Reach out at giuliabrambillapress@gmail.com and let's talk!
