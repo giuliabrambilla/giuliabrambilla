@@ -23,6 +23,6 @@ and much more...
 
 Skillset and tools used:   Python | SQL | Tableau | Excel | Machine Learning Modeling | Data Visualisation | Analysis        
 
-Check my professional experience and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/)
+Check my professional experience and feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) 🤓
 
-Get to know me better and reach out through email or visiting my personal website
+I'm always up for a virtual coffee chat! Reach me out at [my email](mailto:giuliabrambillapress@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
