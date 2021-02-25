@@ -25,4 +25,4 @@ Skillset and tools used:   Python | SQL | Tableau | Excel | Machine Learning Mod
 
 Check my professional experience and feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) 🤓
 
-I'm always up for a virtual coffee chat with fellow data scientists and ML enthusiast - Reach out at giuliabrambillapress@gmail.com and let's talk!
+I'm always up for a virtual coffee with fellow data enthusiasts. Reach out at giuliabrambillapress@gmail.com and let's chat!
