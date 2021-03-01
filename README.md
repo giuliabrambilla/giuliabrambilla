@@ -1,7 +1,7 @@
 ### Hello! I'm Giulia 🚀
 
 
-I define myself a curious, open-minded analytical earthling who loves to solve problems and answer questions using data. I am passionate about food-tech and innovation in the plant-based and alternative proteins sector. I am an advocate of the Data for Good movement, using data to address social issues, and the Women in Tech movement.
+I define myself a curious, open-minded analytical earthling who loves to solve problems and answer questions using data. I am passionate about food-tech and innovation in the plant-based and alternative proteins sector. I am an advocate of the Data for Good movement, using data to address social issues, and a member of various networks of women in tech.
 
 Currently enrolled in a Data Science, Data Analytics and Machine Learning bootcamp at [Allwomen Academy](https://www.allwomen.tech/) in Barcelona ⚡️ An intensive, hands-on learning experience in which I'm learning about:
 
