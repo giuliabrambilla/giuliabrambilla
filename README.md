@@ -23,4 +23,6 @@ and much more...
 
 Skillset and tools used:   Python | SQL | Tableau | Excel | Machine Learning Modeling | Data Visualisation | Analysis        
 
-I'm always up for a virtual coffee with fellow data enthusiasts. Check my [website](https://www.giuliabrambilla.com/), feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) or reach out at giuliabrambillapress@gmail.com and let's chat! ☕️
+I'm always up for a virtual coffee with fellow data enthusiasts.
+
+Check my [website](https://www.giuliabrambilla.com/), feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) or reach out at giuliabrambillapress@gmail.com and let's chat! ☕️
