@@ -1,7 +1,7 @@
 ### Hello! I'm Giulia 🚀
 
 
-I define myself a curious, open-minded analytical earthling who loves to solve problems and answer questions using data. Passionate about innovation, I am an advocate for the "Data for Good", using data to address social issues, and a member of various networks of women in tech.
+I define myself as a curious, open-minded analytical earthling who loves to solve problems and answer questions using data. Passionate about innovation, I am an advocate for the "data for good", using data to address social issues, and a member of various networks of women in tech.
 
 I am an experienced Data Science, Data Analytics and Machine Learning bootcamp graduate at [Allwomen Academy](https://www.allwomen.tech/) in Barcelona ⚡️ An intensive, hands-on learning experience in which I've learnt about:
 
