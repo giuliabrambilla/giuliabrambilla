@@ -18,6 +18,7 @@ Experienced in project coordination and communications management, I shifted my 
 
 and much more. Yes, I'm a serial learner.
 
+
 Passionate about AI for good, innovation, ethics and sustainability, I'm also a firm advocate of diversity and inclusion in STEM disciplines and support several women in tech networks and initiatives.
 
 I'm always up for a virtual coffee with fellow data experts. Check my [website](https://www.giuliabrambilla.com/), feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) or reach out via [email](mailto:giuliabrambillapress@gmail.com) and let's chat! ☕️
