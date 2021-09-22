@@ -1,28 +1,23 @@
-### Hello! I'm Giulia 🚀
+<H3 align='center'>Hello! I'm Giulia 🚀</H3>
 
+I define myself as a curious earthling who loves to solve problems and answer questions using data.
 
-I define myself as a curious, open-minded analytical earthling who loves to solve problems and answer questions using data. Passionate about innovation, I am an advocate for the "data for good", using data to address social issues, and a member of various networks of women in tech.
-
-I am an experienced Data Science, Data Analytics and Machine Learning bootcamp graduate at [Allwomen Academy](https://www.allwomen.tech/) in Barcelona ⚡️ An intensive, hands-on learning experience in which I've learnt about:
+Experienced in project coordination and communications management, I shifted my professional career towards data science. Some of my areas of interest are:
 
 <img align="right" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="300" height="262" />
 
-- Programming with Python
+- Python programming
+- SQL relational databases
 - Descriptive statistics
-- Exploratory data analysis
-- Data mining for business intelligence
-- Data visualisation with Tableau, Matplotlib, Seaborn...
-- Big Data foundations
-- SQL and relational databases
-- Supervised and unsupervised machine learning algorithms
+- Data analysis for business intelligence
+- Data visualization with Tableau, Looker, Google Data Studio
+- Supervised and unsupervised ML algorithms
+- Big data processing
 - Natural language processing
 - Web scraping
 
-and much more...
+and much more. Yes, I'm a serial learner.
 
+Passionate about AI for good, innovation, ethics and sustainability, I'm also a firm advocate of diversity and inclusion in STEM disciplines and support several women in tech networks and initiatives.
 
-Skillset and tools used:   Python | SQL | Tableau | Excel | Machine Learning Modeling | Data Visualisation | Analysis        
-
-I'm always up for a virtual coffee with fellow data enthusiasts.
-
-Check my [website](https://www.giuliabrambilla.com/), feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) or reach out at giuliabrambillapress@gmail.com and let's chat! ☕️
+I'm always up for a virtual coffee with fellow data experts. Check my [website](https://www.giuliabrambilla.com/), feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) or reach out via [email](mailto:giuliabrambillapress@gmail.com) and let's chat! ☕️
