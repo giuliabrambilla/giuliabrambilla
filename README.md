@@ -19,6 +19,9 @@ Experienced in project coordination and communications management, I shifted my 
 
 and much more. Yes, I'm a serial learner.
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 Passionate about AI for good, innovation, ethics and sustainability, I'm also a firm advocate of diversity and inclusion in STEM disciplines and support several women in tech networks and initiatives.
 
