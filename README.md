@@ -5,7 +5,7 @@ I define myself as a curious earthling who loves to solve problems and answer qu
 Experienced in project coordination and communications management, I shifted my professional career towards data science. Some of my areas of interest are:
 
 
-<img align="right" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="300" height="262" />
+<img align="right" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="300" height="262" padding-bottom:10px />
 
 - Python programming
 - SQL relational databases
@@ -18,10 +18,6 @@ Experienced in project coordination and communications management, I shifted my 
 - Web scraping
 
 and much more. Yes, I'm a serial learner.
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 Passionate about AI for good, innovation, ethics and sustainability, I'm also a firm advocate of diversity and inclusion in STEM disciplines and support several women in tech networks and initiatives.
 
