@@ -11,8 +11,8 @@ Experienced in project coordination and communications management, I shifted my 
 - SQL relational databases
 - Descriptive statistics
 - Data analysis for business intelligence
-- Data visualization with Tableau, Looker, Google Data Studio
 - Supervised and unsupervised ML algorithms
+- Data visualization with Tableau, Looker, Google Data Studio
 - Big data processing
 - Natural language processing
 - Web scraping
