@@ -12,7 +12,7 @@ Some of my areas of interest are:
 - Data pipelines
 - Data analysis
 - Supervised and unsupervised machine learning
-- Data visualization with Tableau and Google Data Studio
+- Data visualization
 - Natural language processing
 
 and much more. Yes, I'm a serial learner. 🧠
