@@ -1,4 +1,4 @@
-### <H3 align='center'>🚀 Hi, I'm Giulia</H3>
+### 🚀 Hi, I'm Giulia
 
 I'm a curious earthling who loves to solve problems and answer questions using data. Experienced in project coordination and communications management, I shifted my professional career towards data science and engineering.
 
@@ -15,7 +15,7 @@ Some of my areas of interest are:
 - Data visualization with Tableau and Google Data Studio
 - Natural language processing
 
-and much more. Yes, I'm a serial learner.
+and much more. Yes, I'm a serial learner. 🧠
 
 Passionate about AI for good, innovation, ethics and sustainability, I'm also a firm advocate of diversity and inclusion in STEM disciplines and support several women in tech networks and initiatives.
 
