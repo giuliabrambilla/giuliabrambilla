@@ -9,8 +9,8 @@ Some of my areas of interest are:
 
 - Python programming
 - Statistics
-- Data pipelines to transport all the information needed
-- Data analysis to empower humans to discover insights
+- Data pipelines
+- Data analysis
 - Supervised and unsupervised machine learning
 - Data visualization with Tableau and Google Data Studio
 - Natural language processing
