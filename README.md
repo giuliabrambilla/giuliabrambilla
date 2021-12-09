@@ -1,4 +1,4 @@
-### 🚀 Hi, I'm Giulia
+### 🚀 Hi, I'm Giulia!
 
 I'm a curious earthling who loves to solve problems and answer questions using data. Experienced in project coordination and communications management, I shifted my professional career towards data science and engineering.
 
