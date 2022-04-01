@@ -18,4 +18,4 @@ Passionate about data for good, innovation, ethics and sustainability, I'm also 
 
 ### 💬 Let's talk
 
-I'm always up for a virtual coffee with fellow data experts. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) or reach out via [email](mailto:giuliabrambillapress@gmail.com) and let's chat! ☕️
+I'm always up for a virtual coffee with fellow data people. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) or reach out via [email](mailto:giuliabrambillapress@gmail.com) and let's chat! ☕️
