@@ -1,18 +1,17 @@
+name: README Info Update
+
 on:
  push:
  schedule:
-   - cron: '23 0 * * 0'
+   - cron: '0 12 * * *'
+ workflow_dispatch:
     
 jobs:
-  publish:
+  update-readme:
+    name: GitHub README Generator
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: GitHub README Generator
-        uses: th3c0d3br34ker/github-readme-info@master
+      - uses: th3c0d3br34ker/github-readme-info@master
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TIMEZONE: "Europe/Rome"
