@@ -1,9 +1,9 @@
 name: README Info Update
 
 on:
- schedule:
-   - cron: '0 12 * * *'
- workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
     
 jobs:
   update-readme:
