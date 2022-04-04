@@ -12,7 +12,13 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
       - name: GitHub README Generator
-        uses: th3c0d3br34ker/github-readme-info@1.0.2
+        uses: th3c0d3br34ker/github-readme-info@master
         with:
-          username: giuliabrambilla
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TIMEZONE: "Europe/Rome"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_DAILY_COMMIT: "True"
+          SHOW_WEEKLY_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_TOTAL_CONTRIBUTIONS: "True"
