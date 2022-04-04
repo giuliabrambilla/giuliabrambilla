@@ -19,3 +19,6 @@ Passionate about data for good, innovation, ethics and sustainability, I'm also 
 ### 💬 Let's talk
 
 I'm always up for a virtual coffee with fellow data people. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) or reach out via [email](mailto:giuliabrambillapress@gmail.com) and let's chat! ☕️
+
+
+[![Giulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliabrambilla)](https://github.com/anuraghazra/github-readme-stats)
