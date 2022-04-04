@@ -11,8 +11,8 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-      - name: Profile README.md
-        uses: actions-js/profile-readme@master
+      - name: GitHub README Generator
+        uses: th3c0d3br34ker/github-readme-info@1.0.2
         with:
           username: giuliabrambilla
           github_token: ${{ secrets.GITHUB_TOKEN }}
