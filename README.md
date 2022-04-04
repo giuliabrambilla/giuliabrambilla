@@ -24,3 +24,6 @@ I'm always up for a virtual coffee with fellow data people. Feel free to connect
 
 
 [![Giulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliabrambilla&show_icons=true&theme=aura&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliabrambilla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
