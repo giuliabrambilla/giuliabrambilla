@@ -1,6 +1,5 @@
 ### 🚀 Hi, I'm Giulia!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=650EF7&center=true&lines=Always+learning)](https://git.io/typing-svg)
 
 I'm a curious earthling who loves to solve problems and answer questions using data. Experienced in project coordination and communications management, I shifted my professional career towards data and I am now specializing in data engineering at Typeform.
 
@@ -23,9 +22,6 @@ Passionate about data for good, innovation, ethics and sustainability, I'm also 
 I'm always up for a virtual coffee with fellow data people. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/giuliabrambilla/) or reach out via [email](mailto:giuliabrambillapress@gmail.com) and let's chat! ☕️
 
 
-
-
-[![Giulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliabrambilla&show_icons=true&theme=aura&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
