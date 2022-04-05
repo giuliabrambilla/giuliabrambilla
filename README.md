@@ -1,5 +1,7 @@
 ### 🚀 Hi, I'm Giulia!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=650EF7&center=true&lines=Always+learning)](https://git.io/typing-svg)
+
 I'm a curious earthling who loves to solve problems and answer questions using data. Experienced in project coordination and communications management, I shifted my professional career towards data and I am now specializing in data engineering at Typeform.
 
 I am currently improving my skills in:
